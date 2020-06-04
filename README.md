@@ -1,7 +1,5 @@
 <h3 align="center">
     <img alt="Logo" title="#logo" width="300px" src=".github/logo.svg">
-    <br><br>
-    <b>Recicle! ajude o meio ambiente!</b> 
 </h3>
 
 <p align="center">
