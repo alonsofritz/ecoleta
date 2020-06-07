@@ -3,3 +3,7 @@
 
 # uploads
 /uploads/*
+!/uploads/.gitkeep
+
+# Database
+*.sqlite
