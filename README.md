@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="300px" src=".github/capa_ecoleta.png">
+    <img alt="Capa" title="#capa-ecoleta" width="800px" src=".github/capa_ecoleta.png">
 </h3>
 
 <p align="center">
