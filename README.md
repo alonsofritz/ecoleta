@@ -37,7 +37,7 @@ Essa aplicação foi construída <strong>Next Level Week #01</strong> distribuí
 ### Resultado MOBILE:
 
 <h1 align="center">
-    <img alt="Mobile" src=".github/resultado-mobile.gif" width="450px">
+    <img alt="Mobile" src=".github/resultado-mobile.gif" width="300px">
 </h1>
 
 ## Como usar
