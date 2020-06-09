@@ -1,15 +1,3 @@
-<h3 align="center">
-    <img alt="Logo" title="#logo" width="300px" src=".github/logo.svg">
-</h3>
-
-<p align="center">
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-green">
-  </a>
-  <a>
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-green">
-</p>
-
 # Índice
 
 - [Sobre](#sobre)
@@ -39,7 +27,7 @@ Essa aplicação foi construída <strong>Next Level Week #01</strong> distribuí
 ### Resultado WEB:
 
 <h1 align="center">
-    <img alt="Web" src="" width="900px">
+    <img alt="Web" src=".github/resultado-web.gif" width="900px">
 </h1>
 
 ### Resultado MOBILE:
@@ -95,6 +83,19 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
+<h3 align="center">
+    <img alt="Logo" title="#logo" width="300px" src=".github/logo.svg">
+</h3>
+
+<p align="center">
+  <a href="https://rocketseat.com.br">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-green">
+  </a>
+  <a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-green">
+</p>
+
+---
 <h4 align="center">
-    Feito por <a href="https://www.linkedin.com/in/alonsofritz/" target="_blank">Alonso Fritz</a>
+    :rocket: Feito por <a href="https://www.linkedin.com/in/alonsofritz/" target="_blank">Alonso Fritz</a>
 </h4>
