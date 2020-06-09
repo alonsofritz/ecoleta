@@ -1,3 +1,7 @@
+<h3 align="center">
+    <img alt="Capa" title="#capa" width="300px" src=".github/capa_ecoleta.png">
+</h3>
+
 # Índice
 
 - [Sobre](#sobre)
@@ -33,7 +37,7 @@ Essa aplicação foi construída <strong>Next Level Week #01</strong> distribuí
 ### Resultado MOBILE:
 
 <h1 align="center">
-    <img alt="Mobile" src="" width="900px">
+    <img alt="Mobile" src=".github/resultado-mobile.gif" width="450px">
 </h1>
 
 ## Como usar
@@ -81,7 +85,8 @@ Essa aplicação foi construída <strong>Next Level Week #01</strong> distribuí
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
----
+</br>
+</br>
 
 <h3 align="center">
     <img alt="Logo" title="#logo" width="300px" src=".github/logo.svg">
