@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Capa" title="#capa" width="300px" src=".github/capa_ecoleta.png">
+    <img alt="Capa" title="#capa" width="900px" src=".github/capa_ecoleta.png">
 </h3>
 
 # Índice
